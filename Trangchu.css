@@ -251,7 +251,7 @@ body,html{
 	left:216px;
 	top:35px;
 	font-family:Source Sans Pro;
-	text-align:center;
+	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
 }
@@ -344,7 +344,7 @@ body,html{
 	left:28px;
 	top:67px;
 	font-family:Source Sans Pro;
-	text-align:justify;
+	text-align:left;
 	font-size:18px;
 	letter-spacing:0;
 }
@@ -402,7 +402,7 @@ body,html{
 	left:32px;
 	top:82px;
 	font-family:Source Sans Pro;
-	text-align:justify;
+	text-align:left;
 	font-size:18px;
 	letter-spacing:0;
 }
