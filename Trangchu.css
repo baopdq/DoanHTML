@@ -649,13 +649,13 @@ body,html{
   backface-visibility: hidden;
   border-color: var(--xanh--);
   transition: width 350ms ease-in-out;
-  width: 70%;
+  width: 100%;
 }
 
 .btn-2:hover:before {
   bottom: auto;
   top: 0;
-  width: 70%;
+  width: 100%;
 }
   
 .ei12_123_12_10 li{
