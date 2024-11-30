@@ -535,18 +535,21 @@ html {
 
 .e37_116 {
 	margin: 2%;
+	margin-top: 3px;
 	background-color: var(--be--);
 	width: 96%;
 	height: 247px;
 	border-radius: 30px;
 	background-image: url(TMAnh/khung__nh.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+	opacity: 1;
+  position: absolute;
+  top: 27px;
+  left: 30px;
 	background-position: center;
 }
 
 .e37_117 {
-	margin: 33px;
+	padding: 40px;
 	text-align: center;
 	color: var(--trang1--);
 	font-family: Raleway;
